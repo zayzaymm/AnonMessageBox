@@ -1,3 +1,3 @@
 # AnonMessageBox
 
-<img style='width: auto;height:300px;' src='pj.jpg'>
+<img style='width: auto;height:auto;' src='pj.jpg'>
